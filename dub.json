@@ -1,0 +1,11 @@
+{
+	"description": "libseat binding for Dlang",
+	"license": "Unlicense",
+	"authors": [
+		"Roman Vlasov aka Doctor"
+	],
+	"copyright": "Copyright © 2026, Roman Vlasov aka Doctor",
+	"name": "libseat",
+	"sourcePaths": ["dsl/"],
+	"targetName": "seat"
+}

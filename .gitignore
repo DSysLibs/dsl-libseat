@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/libseat
+libseat.so
+libseat.dylib
+libseat.dll
+liblibseat.a
+libseat.a
+libseat.lib
+libseat-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
