@@ -5,7 +5,7 @@
 		"Roman Vlasov aka Doctor"
 	],
 	"copyright": "Copyright © 2026, Roman Vlasov aka Doctor",
-	"name": "libseat",
+	"name": "dsl:libseat",
 	"sourcePaths": ["dsl/"],
 	"targetName": "seat"
 }
