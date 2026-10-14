@@ -6,5 +6,6 @@
 	],
 	"copyright": "Copyright © 2026, Roman Vlasov aka Doctor",
 	"name": "dsl-libseat",
-	"targetName": "seat"
+	"targetName": "seat",
+	"targetType": "none"
 }
